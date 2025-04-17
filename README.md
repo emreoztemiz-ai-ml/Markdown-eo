@@ -24,7 +24,7 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Yatay Çizgi](#Yatay-Çizgi)
 
-[Görev Listesi](#Gorev-Listesi)
+[Görev Listesi](#Görev-Listesi)
 
 
 ### Başlık
@@ -254,7 +254,8 @@ YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
 ### Cümle Aralarında kullanım
 
 Python'da toplama işlemi için `a + b` ifadesi kullanılır.
-Python'da toplama işlemi için a + b ifadesi kullanılır.
+```
+Python'da toplama işlemi için `a + b` ifadesi kullanılır.
 
 ### Görev Listesi
 
