@@ -249,17 +249,20 @@ YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
 
 YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
 
-### Kod Kullanımı
-```
-void main()    
-{    
-    printf("Hello, Markdown.");    
-}
-```
+### Cümle Aralarında kullanım
 
-    void main()
-    {
-        printf("Hello, Markdown.");
-    }
+Python'da toplama işlemi için `a + b` ifadesi kullanılır.
+Python'da toplama işlemi için a + b ifadesi kullanılır.
 
+### Görev listesi
+
+- [x] Proje oluşturuldu
+- [ ] Belgeler eklenecek
+- [ ] Yayınlanacak
+
+```
+- [x] Proje oluşturuldu
+- [ ] Belgeler eklenecek
+- [ ] Yayınlanacak
+---
 **Süpriz**:İlk denemem
