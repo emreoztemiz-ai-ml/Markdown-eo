@@ -256,6 +256,7 @@ YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
 Python'da toplama işlemi için `a + b` ifadesi kullanılır.
 ```
 Python'da toplama işlemi için `a + b` ifadesi kullanılır.
+```
 ---
 
 ### Görev Listesi
