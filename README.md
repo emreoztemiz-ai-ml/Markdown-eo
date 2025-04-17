@@ -24,6 +24,8 @@ Markdown, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/
 
 [Yatay Çizgi](#Yatay-Çizgi)
 
+[Görev Listesi](#Gorev-Listesi)
+
 
 ### Başlık
 
@@ -201,7 +203,7 @@ echo Merhaba
 >>> Alıntı 3
 
 
-### Resim/Görsel
+### Resim
 
 #### Aynı Satıra Yazarak
 ```
@@ -254,7 +256,7 @@ YazıYazıYazıYazıYazıYazıYazıYazıYazıYazı
 Python'da toplama işlemi için `a + b` ifadesi kullanılır.
 Python'da toplama işlemi için a + b ifadesi kullanılır.
 
-### Görev listesi
+### Görev Listesi
 
 - [x] Proje oluşturuldu
 - [ ] Belgeler eklenecek
