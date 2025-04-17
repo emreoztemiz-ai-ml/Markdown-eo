@@ -264,5 +264,6 @@ Python'da toplama işlemi için a + b ifadesi kullanılır.
 - [x] Proje oluşturuldu
 - [ ] Belgeler eklenecek
 - [ ] Yayınlanacak
+```
 ---
 **Süpriz**:İlk denemem
